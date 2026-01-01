@@ -15,6 +15,9 @@ Method: GRPO
 Reward function(s):
 - Only used one reward function (for correctness) as the training times otherwise were too long (might try integrating more in the future).
 
+### Training
+1 x A100 GPU via Colab Pro. ~8 hrs of training 😲
+
 ## Results
 SFT Only
 accuracy: 18%
