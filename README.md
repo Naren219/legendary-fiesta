@@ -23,7 +23,8 @@ accuracy: 57%
 SFT + RL (sampling 32 programs)
 accuracy: 78%
 
-Funny thing is that the reward was decreasing the whole time. It was quite noisy, but it's weird that the results proved it did better with RL.
+Funny thing is that the reward was decreasing the whole time. It's quite noisy, but weird that the results proved it did better with RL.
+
 <img width="846" height="453" alt="download" src="https://github.com/user-attachments/assets/5cf6af3f-3d49-4c60-963e-f73f9b87d526" />
 
 Here's what Uncle Opus 4.5 told me:
